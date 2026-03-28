@@ -1,3 +1,4 @@
 # About me
 
-I'd like to learn Nodejs and become a backend web developer
+Full-Stack Developer with 2 years of experience building cross-platform mobile applications, backend services, and interactive
+web experiences
